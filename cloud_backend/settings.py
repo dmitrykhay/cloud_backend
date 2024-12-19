@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-*$r&v-^_4!zftelc(!o1j0kkgqvy$1_&50r73!ein-l-hu%d!y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['79.174.94.152', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['31.31.207.173', 'localhost', '127.0.0.1']
 
 DEFAULTS = {
     'DEFAULT_PARSER_CLASSES': [
