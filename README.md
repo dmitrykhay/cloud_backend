@@ -45,7 +45,7 @@
 
 1. Установка БД Postgresql и первичная настройка:
     ```shell 
-    apt install posgtresql
+    apt install postgresql
     sudo su postgres
     psql
     ALTER USER `<имя_пользователя>` WITH PASSWORD `<пароль>`;
